@@ -1,0 +1,43 @@
+{
+ "n": {
+  "answerable": 20,
+  "near_miss": 10,
+  "out_of_scope": 6
+ },
+ "gold_in_bm25_top10": 17,
+ "bm25": {
+  "hit@1": 7,
+  "hit@3": 11,
+  "hit@5": 13
+ },
+ "jev_answers": {
+  "hit@1": 17,
+  "hit@3": 17,
+  "hit@5": 17
+ },
+ "jev_relevant": {
+  "hit@1": 17,
+  "hit@3": 17,
+  "hit@5": 17
+ },
+ "gate_pass": {
+  "answerable": "17/20",
+  "near_miss": "0/10",
+  "out_of_scope": "0/6"
+ },
+ "kept_per_query_mean": 1.11,
+ "kept_answerable_mean": 2,
+ "gold_kept": 17,
+ "bm25_gate_best": {
+  "correct": "30/36",
+  "threshold": 8.479
+ },
+ "jev_gate_correct": "33/36",
+ "requests": 360,
+ "ms_p50": 223.0,
+ "ms_p90": 303,
+ "tokens_per_request_mean": 554,
+ "usd_total": 0.00838,
+ "usd_per_query": 0.000233,
+ "model": "jev-1.13.0"
+}

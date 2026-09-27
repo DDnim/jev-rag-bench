@@ -1,0 +1,2522 @@
+{
+"jev-1.13.0|How much do I pay for the text Jev sends back?|cookbooks__date_extraction_cookbook#0": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 322,
+"tokens": 627,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|introduction#0": {
+"relevant": 0.08,
+"answers": 0.05,
+"ms": 331,
+"tokens": 506,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|introduction__coding-agents#1": {
+"relevant": 0.07,
+"answers": 0.05,
+"ms": 346,
+"tokens": 505,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|models#4": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 426,
+"tokens": 400,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|concepts__system-one#0": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 182,
+"tokens": 451,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|api#2": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 187,
+"tokens": 499,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|cookbooks__llm_guardrails#0": {
+"relevant": 0.13,
+"answers": 0.05,
+"ms": 187,
+"tokens": 642,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|concepts__how-to-build-with-system-one#4": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 224,
+"tokens": 380,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|models#1": {
+"relevant": 0.89,
+"answers": 0.92,
+"ms": 237,
+"tokens": 767,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much do I pay for the text Jev sends back?|cookbooks__date_extraction_cookbook#6": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 253,
+"tokens": 399,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|models#2": {
+"relevant": 0.11,
+"answers": 0.06,
+"ms": 189,
+"tokens": 596,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|cookbooks__date_extraction_cookbook#4": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 190,
+"tokens": 566,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|primitives__advanced#6": {
+"relevant": 0.11,
+"answers": 0.06,
+"ms": 192,
+"tokens": 638,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 224,
+"tokens": 554,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|models#6": {
+"relevant": 0.27,
+"answers": 0.15,
+"ms": 202,
+"tokens": 474,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|model-jaggedness__jev-1.13#6": {
+"relevant": 0.18,
+"answers": 0.08,
+"ms": 210,
+"tokens": 478,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|primitives__advanced#2": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 257,
+"tokens": 420,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.13,
+"answers": 0.09,
+"ms": 228,
+"tokens": 554,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|concepts__system-one#2": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 222,
+"tokens": 509,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I send a screenshot of a form to Jev?|cookbooks__date_extraction_cookbook#0": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 245,
+"tokens": 626,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|introduction__machine-learning-primer#2": {
+"relevant": 0.24,
+"answers": 0.11,
+"ms": 275,
+"tokens": 506,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks__classification_using_confidence#3": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 276,
+"tokens": 524,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks__skill_suggestion#7": {
+"relevant": 0.05,
+"answers": 0.04,
+"ms": 275,
+"tokens": 592,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks__date_extraction_cookbook#6": {
+"relevant": 0.06,
+"answers": 0.04,
+"ms": 280,
+"tokens": 398,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|concepts__how-to-build-with-system-one#4": {
+"relevant": 0.1,
+"answers": 0.06,
+"ms": 203,
+"tokens": 379,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks#3": {
+"relevant": 0.09,
+"answers": 0.05,
+"ms": 213,
+"tokens": 662,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks__semantic_find#1": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 233,
+"tokens": 437,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks__classification_using_confidence#0": {
+"relevant": 0.06,
+"answers": 0.05,
+"ms": 280,
+"tokens": 695,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|concepts__use-case-map#2": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 206,
+"tokens": 733,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Will TypeSafe train on the requests my company sends?|cookbooks__skill_suggestion#4": {
+"relevant": 0.07,
+"answers": 0.06,
+"ms": 297,
+"tokens": 748,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|cookbooks__hierarchical_classification#3": {
+"relevant": 0.11,
+"answers": 0.04,
+"ms": 203,
+"tokens": 367,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|models#2": {
+"relevant": 0.05,
+"answers": 0.04,
+"ms": 209,
+"tokens": 597,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|cookbooks__semantic_find#6": {
+"relevant": 0.07,
+"answers": 0.05,
+"ms": 226,
+"tokens": 424,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|cookbooks__llm_guardrails#7": {
+"relevant": 0.37,
+"answers": 0.38,
+"ms": 245,
+"tokens": 462,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|primitives__advanced#6": {
+"relevant": 0.08,
+"answers": 0.05,
+"ms": 202,
+"tokens": 639,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|primitives__score#6": {
+"relevant": 0.22,
+"answers": 0.1,
+"ms": 310,
+"tokens": 762,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|primitives__score#4": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 278,
+"tokens": 745,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|models#3": {
+"relevant": 0.98,
+"answers": 0.98,
+"ms": 317,
+"tokens": 488,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|concepts__system-one#3": {
+"relevant": 0.1,
+"answers": 0.05,
+"ms": 265,
+"tokens": 438,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I fine-tune Jev on my own labeled examples?|primitives__advanced#4": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 210,
+"tokens": 806,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|introduction__coding-agents#1": {
+"relevant": 0.1,
+"answers": 0.1,
+"ms": 183,
+"tokens": 501,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|primitives__advanced#4": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 213,
+"tokens": 802,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|model-jaggedness__jev-1.13#10": {
+"relevant": 0.08,
+"answers": 0.06,
+"ms": 307,
+"tokens": 558,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|models#4": {
+"relevant": 0.96,
+"answers": 0.89,
+"ms": 308,
+"tokens": 396,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|cookbooks__sde_cascade#0": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 309,
+"tokens": 781,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|concepts__system-one#0": {
+"relevant": 0.16,
+"answers": 0.08,
+"ms": 316,
+"tokens": 447,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|introduction#0": {
+"relevant": 0.06,
+"answers": 0.04,
+"ms": 231,
+"tokens": 502,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|models#1": {
+"relevant": 0.1,
+"answers": 0.07,
+"ms": 243,
+"tokens": 763,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|introduction__machine-learning-primer#3": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 198,
+"tokens": 500,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How well does Jev handle Chinese text?|primitives__choice#1": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 298,
+"tokens": 800,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|primitives__noul#6": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 191,
+"tokens": 558,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|cookbooks__autoresearch_feature_discovery#4": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 195,
+"tokens": 449,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|models#1": {
+"relevant": 0.98,
+"answers": 0.98,
+"ms": 201,
+"tokens": 768,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|api#6": {
+"relevant": 0.98,
+"answers": 0.98,
+"ms": 235,
+"tokens": 568,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|cookbooks__skill_suggestion#7": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 202,
+"tokens": 594,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|cookbooks__consistency_noul_cookbook#0": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 212,
+"tokens": 815,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|models#6": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 224,
+"tokens": 476,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|primitives__noul#5": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 285,
+"tokens": 403,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|cookbooks__parallel_questions#6": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 289,
+"tokens": 484,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What error do I get when I send too many calls per minute?|concepts__use-case-map#1": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 292,
+"tokens": 582,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|introduction#3": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 194,
+"tokens": 434,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|cookbooks__autoformat#0": {
+"relevant": 0.12,
+"answers": 0.08,
+"ms": 201,
+"tokens": 807,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|cookbooks__sde_cascade#4": {
+"relevant": 0.1,
+"answers": 0.08,
+"ms": 212,
+"tokens": 739,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.1,
+"answers": 0.07,
+"ms": 228,
+"tokens": 453,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|cookbooks__rerank_typesafe#0": {
+"relevant": 0.08,
+"answers": 0.05,
+"ms": 278,
+"tokens": 608,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|patterns__intent-routing#0": {
+"relevant": 0.11,
+"answers": 0.07,
+"ms": 279,
+"tokens": 400,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|introduction__quickstart#1": {
+"relevant": 0.08,
+"answers": 0.04,
+"ms": 288,
+"tokens": 417,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|cookbooks__llm_guardrails#3": {
+"relevant": 0.07,
+"answers": 0.05,
+"ms": 280,
+"tokens": 508,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|cookbooks__semantic_find#8": {
+"relevant": 0.07,
+"answers": 0.05,
+"ms": 174,
+"tokens": 478,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Why do answers get worse when I paste a whole database dump into the input?|primitives__advanced#2": {
+"relevant": 0.71,
+"answers": 0.39,
+"ms": 219,
+"tokens": 424,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.94,
+"answers": 0.81,
+"ms": 185,
+"tokens": 554,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|cookbooks__autoresearch_feature_discovery#7": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 198,
+"tokens": 844,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|cookbooks__autoresearch_feature_discovery#2": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 204,
+"tokens": 455,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.11,
+"answers": 0.06,
+"ms": 235,
+"tokens": 449,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|cookbooks__autoresearch_feature_discovery#0": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 213,
+"tokens": 838,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|model-jaggedness__jev-1.13#3": {
+"relevant": 0.3,
+"answers": 0.33,
+"ms": 206,
+"tokens": 744,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|cookbooks__classifying_rag_passages#5": {
+"relevant": 0.05,
+"answers": 0.04,
+"ms": 178,
+"tokens": 870,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|cookbooks__classification_using_confidence#5": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 232,
+"tokens": 640,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|primitives__advanced#4": {
+"relevant": 0.08,
+"answers": 0.04,
+"ms": 274,
+"tokens": 805,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should I ask Jev which of two deadlines comes first?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.64,
+"answers": 0.23,
+"ms": 278,
+"tokens": 554,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|models#2": {
+"relevant": 0.98,
+"answers": 0.97,
+"ms": 183,
+"tokens": 597,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|introduction#0": {
+"relevant": 0.12,
+"answers": 0.07,
+"ms": 185,
+"tokens": 506,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.31,
+"answers": 0.24,
+"ms": 195,
+"tokens": 555,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|cookbooks__llm_guardrails#0": {
+"relevant": 0.59,
+"answers": 0.47,
+"ms": 206,
+"tokens": 642,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|concepts__how-to-build-with-system-one#2": {
+"relevant": 0.66,
+"answers": 0.41,
+"ms": 193,
+"tokens": 571,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|confidence#4": {
+"relevant": 0.29,
+"answers": 0.2,
+"ms": 212,
+"tokens": 459,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|concepts__state#2": {
+"relevant": 0.2,
+"answers": 0.15,
+"ms": 196,
+"tokens": 438,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|introduction__machine-learning-primer#4": {
+"relevant": 0.18,
+"answers": 0.1,
+"ms": 328,
+"tokens": 536,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|cookbooks__sde_cascade#2": {
+"relevant": 0.13,
+"answers": 0.06,
+"ms": 275,
+"tokens": 495,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep results stable when a new model version ships?|primitives__noul#8": {
+"relevant": 0.48,
+"answers": 0.36,
+"ms": 319,
+"tokens": 495,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|patterns__confidence-routing#1": {
+"relevant": 0.81,
+"answers": 0.73,
+"ms": 201,
+"tokens": 613,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|confidence#4": {
+"relevant": 0.98,
+"answers": 0.97,
+"ms": 211,
+"tokens": 463,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|cookbooks__semantic_find#6": {
+"relevant": 0.06,
+"answers": 0.03,
+"ms": 223,
+"tokens": 428,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|confidence#3": {
+"relevant": 0.7,
+"answers": 0.31,
+"ms": 317,
+"tokens": 490,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|cookbooks__llm_guardrails#4": {
+"relevant": 0.61,
+"answers": 0.22,
+"ms": 268,
+"tokens": 470,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|cookbooks__classifying_rag_passages#7": {
+"relevant": 0.06,
+"answers": 0.03,
+"ms": 278,
+"tokens": 421,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|patterns__intent-routing#1": {
+"relevant": 0.27,
+"answers": 0.15,
+"ms": 276,
+"tokens": 700,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|concepts__system-one#2": {
+"relevant": 0.41,
+"answers": 0.18,
+"ms": 199,
+"tokens": 514,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|primitives__noul#3": {
+"relevant": 0.29,
+"answers": 0.22,
+"ms": 210,
+"tokens": 802,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Should a delete action need a higher bar than a read-only one before acting automatically?|primitives__score#4": {
+"relevant": 0.1,
+"answers": 0.05,
+"ms": 236,
+"tokens": 749,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks__rerank_typesafe#7": {
+"relevant": 0.58,
+"answers": 0.22,
+"ms": 278,
+"tokens": 419,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks#2": {
+"relevant": 0.98,
+"answers": 0.97,
+"ms": 294,
+"tokens": 443,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|agent-skill#3": {
+"relevant": 0.14,
+"answers": 0.06,
+"ms": 303,
+"tokens": 435,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks__parallel_questions#0": {
+"relevant": 0.98,
+"answers": 0.96,
+"ms": 316,
+"tokens": 639,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|patterns__fan-out#0": {
+"relevant": 0.59,
+"answers": 0.32,
+"ms": 221,
+"tokens": 405,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|primitives__choice#3": {
+"relevant": 0.83,
+"answers": 0.72,
+"ms": 200,
+"tokens": 565,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks__llm_guardrails#0": {
+"relevant": 0.48,
+"answers": 0.34,
+"ms": 219,
+"tokens": 645,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks__parallel_questions#4": {
+"relevant": 0.3,
+"answers": 0.13,
+"ms": 320,
+"tokens": 459,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks__parallel_questions#6": {
+"relevant": 0.98,
+"answers": 0.97,
+"ms": 230,
+"tokens": 486,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Is it cheaper to put all my questions about one document into a single call?|cookbooks__classifying_rag_passages#4": {
+"relevant": 0.24,
+"answers": 0.11,
+"ms": 276,
+"tokens": 496,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__rerank_typesafe#6": {
+"relevant": 0.56,
+"answers": 0.14,
+"ms": 219,
+"tokens": 854,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__rerank_typesafe#2": {
+"relevant": 0.26,
+"answers": 0.04,
+"ms": 224,
+"tokens": 677,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__rerank_typesafe#0": {
+"relevant": 0.98,
+"answers": 0.97,
+"ms": 237,
+"tokens": 608,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks#3": {
+"relevant": 0.98,
+"answers": 0.98,
+"ms": 236,
+"tokens": 666,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__autoresearch_feature_discovery#7": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 235,
+"tokens": 848,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__rerank_typesafe#4": {
+"relevant": 0.11,
+"answers": 0.03,
+"ms": 250,
+"tokens": 641,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__rerank_typesafe#7": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 256,
+"tokens": 419,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__rerank_typesafe#3": {
+"relevant": 0.08,
+"answers": 0.02,
+"ms": 286,
+"tokens": 471,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|primitives__noul#8": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 217,
+"tokens": 498,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How much did re-ranking raise top-1 accuracy on the court opinion search?|cookbooks__semantic_find#4": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 229,
+"tokens": 437,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__semantic_find#3": {
+"relevant": 0.16,
+"answers": 0.1,
+"ms": 208,
+"tokens": 480,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__classifying_rag_passages#4": {
+"relevant": 0.83,
+"answers": 0.63,
+"ms": 213,
+"tokens": 496,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|primitives__noul#8": {
+"relevant": 0.94,
+"answers": 0.81,
+"ms": 215,
+"tokens": 498,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__semantic_find#0": {
+"relevant": 0.96,
+"answers": 0.93,
+"ms": 226,
+"tokens": 663,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__rerank_typesafe#2": {
+"relevant": 0.11,
+"answers": 0.05,
+"ms": 200,
+"tokens": 677,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__rerank_typesafe#6": {
+"relevant": 0.1,
+"answers": 0.07,
+"ms": 222,
+"tokens": 854,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks#3": {
+"relevant": 0.9,
+"answers": 0.85,
+"ms": 237,
+"tokens": 666,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__classifying_rag_passages#5": {
+"relevant": 0.77,
+"answers": 0.67,
+"ms": 255,
+"tokens": 874,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__semantic_find#4": {
+"relevant": 0.96,
+"answers": 0.93,
+"ms": 187,
+"tokens": 437,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How can I detect that a document contains no answer to my query at all?|cookbooks__classifying_rag_passages#6": {
+"relevant": 0.81,
+"answers": 0.67,
+"ms": 278,
+"tokens": 578,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__citation_check#5": {
+"relevant": 0.95,
+"answers": 0.89,
+"ms": 198,
+"tokens": 708,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__consistency_noul_cookbook#2": {
+"relevant": 0.07,
+"answers": 0.03,
+"ms": 215,
+"tokens": 540,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__citation_check#4": {
+"relevant": 0.93,
+"answers": 0.76,
+"ms": 244,
+"tokens": 515,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__citation_check#0": {
+"relevant": 0.92,
+"answers": 0.74,
+"ms": 257,
+"tokens": 634,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__citation_check#3": {
+"relevant": 0.5,
+"answers": 0.34,
+"ms": 188,
+"tokens": 462,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__classification_using_confidence#5": {
+"relevant": 0.11,
+"answers": 0.06,
+"ms": 194,
+"tokens": 645,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__autoformat#0": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 184,
+"tokens": 808,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__citation_check#6": {
+"relevant": 0.19,
+"answers": 0.04,
+"ms": 264,
+"tokens": 391,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|confidence#3": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 323,
+"tokens": 490,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I catch a quote that is accurate but does not back up the claim?|cookbooks__classification_using_confidence#4": {
+"relevant": 0.08,
+"answers": 0.04,
+"ms": 310,
+"tokens": 508,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__classifying_rag_passages#6": {
+"relevant": 0.94,
+"answers": 0.88,
+"ms": 210,
+"tokens": 582,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__classifying_rag_passages#3": {
+"relevant": 0.8,
+"answers": 0.21,
+"ms": 218,
+"tokens": 540,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__consistency_choice_cookbook#2": {
+"relevant": 0.28,
+"answers": 0.12,
+"ms": 220,
+"tokens": 489,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__classifying_rag_passages#0": {
+"relevant": 0.96,
+"answers": 0.91,
+"ms": 311,
+"tokens": 718,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__classifying_rag_passages#1": {
+"relevant": 0.22,
+"answers": 0.11,
+"ms": 269,
+"tokens": 500,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__consistency_choice_cookbook#4": {
+"relevant": 0.06,
+"answers": 0.05,
+"ms": 288,
+"tokens": 829,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|cookbooks__classifying_rag_passages#2": {
+"relevant": 0.73,
+"answers": 0.23,
+"ms": 283,
+"tokens": 584,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|agent-skill#2": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 209,
+"tokens": 507,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|concepts__system-one#3": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 180,
+"tokens": 445,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I keep a retrieved forum post that tries to hijack the model out of my prompt?|models#0": {
+"relevant": 0.04,
+"answers": 0.03,
+"ms": 197,
+"tokens": 405,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|introduction__coding-agents#0": {
+"relevant": 0.29,
+"answers": 0.16,
+"ms": 210,
+"tokens": 421,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|cookbooks__classifying_rag_passages#2": {
+"relevant": 0.17,
+"answers": 0.16,
+"ms": 228,
+"tokens": 577,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|cookbooks__classifying_rag_passages#1": {
+"relevant": 0.86,
+"answers": 0.69,
+"ms": 231,
+"tokens": 493,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|cookbooks__autoformat#9": {
+"relevant": 0.05,
+"answers": 0.04,
+"ms": 246,
+"tokens": 572,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|model-jaggedness__jev-1.13#5": {
+"relevant": 0.23,
+"answers": 0.11,
+"ms": 204,
+"tokens": 407,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|introduction__coding-agents#1": {
+"relevant": 0.96,
+"answers": 0.96,
+"ms": 222,
+"tokens": 505,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.28,
+"answers": 0.14,
+"ms": 220,
+"tokens": 555,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|cookbooks__autoformat#10": {
+"relevant": 0.04,
+"answers": 0.04,
+"ms": 465,
+"tokens": 444,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|primitives#2": {
+"relevant": 0.06,
+"answers": 0.04,
+"ms": 226,
+"tokens": 614,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can Jev write the final answer paragraph for my chatbot?|cookbooks__function_calling#3": {
+"relevant": 0.09,
+"answers": 0.05,
+"ms": 466,
+"tokens": 625,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|cookbooks__rerank_typesafe#3": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 183,
+"tokens": 470,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|models#3": {
+"relevant": 0.95,
+"answers": 0.95,
+"ms": 192,
+"tokens": 490,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|introduction__machine-learning-primer#2": {
+"relevant": 0.94,
+"answers": 0.91,
+"ms": 286,
+"tokens": 509,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|introduction__coding-agents#3": {
+"relevant": 0.1,
+"answers": 0.04,
+"ms": 288,
+"tokens": 510,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|confidence#1": {
+"relevant": 0.11,
+"answers": 0.04,
+"ms": 220,
+"tokens": 579,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|cookbooks__classification_using_confidence#6": {
+"relevant": 0.49,
+"answers": 0.17,
+"ms": 332,
+"tokens": 456,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|models#4": {
+"relevant": 0.16,
+"answers": 0.07,
+"ms": 253,
+"tokens": 402,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|cookbooks__skill_suggestion#4": {
+"relevant": 0.1,
+"answers": 0.05,
+"ms": 377,
+"tokens": 751,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|cookbooks__function_calling#3": {
+"relevant": 0.03,
+"answers": 0.03,
+"ms": 200,
+"tokens": 627,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What training method makes Jev's probabilities match how often it is right?|cookbooks__sde_cascade#7": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 296,
+"tokens": 655,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|model-jaggedness__jev-1.13#9": {
+"relevant": 0.35,
+"answers": 0.15,
+"ms": 192,
+"tokens": 788,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|api#3": {
+"relevant": 0.99,
+"answers": 0.99,
+"ms": 199,
+"tokens": 753,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|primitives__choice#3": {
+"relevant": 0.99,
+"answers": 0.99,
+"ms": 214,
+"tokens": 558,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|introduction__coding-agents#1": {
+"relevant": 0.59,
+"answers": 0.18,
+"ms": 241,
+"tokens": 501,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|cookbooks__classification_using_confidence#4": {
+"relevant": 0.98,
+"answers": 0.98,
+"ms": 181,
+"tokens": 500,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|cookbooks__semantic_find#3": {
+"relevant": 0.99,
+"answers": 0.99,
+"ms": 196,
+"tokens": 473,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|primitives__choice#0": {
+"relevant": 0.5,
+"answers": 0.12,
+"ms": 275,
+"tokens": 451,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|primitives#2": {
+"relevant": 0.74,
+"answers": 0.34,
+"ms": 301,
+"tokens": 610,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|cookbooks__semantic_find#4": {
+"relevant": 0.18,
+"answers": 0.06,
+"ms": 187,
+"tokens": 430,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many options can one Choice question hold?|cookbooks__pre_parsed_value_extraction_cookbook#2": {
+"relevant": 0.65,
+"answers": 0.26,
+"ms": 252,
+"tokens": 468,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|cookbooks__classification_using_confidence#6": {
+"relevant": 0.94,
+"answers": 0.83,
+"ms": 197,
+"tokens": 454,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|primitives__score#4": {
+"relevant": 0.37,
+"answers": 0.31,
+"ms": 205,
+"tokens": 745,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|confidence#2": {
+"relevant": 0.86,
+"answers": 0.36,
+"ms": 206,
+"tokens": 419,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|concepts__how-to-build-with-system-one#0": {
+"relevant": 0.91,
+"answers": 0.76,
+"ms": 215,
+"tokens": 494,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|cookbooks__autoformat#0": {
+"relevant": 0.28,
+"answers": 0.12,
+"ms": 200,
+"tokens": 804,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|cookbooks__date_extraction_cookbook#2": {
+"relevant": 0.09,
+"answers": 0.05,
+"ms": 193,
+"tokens": 569,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|confidence#4": {
+"relevant": 0.91,
+"answers": 0.82,
+"ms": 209,
+"tokens": 459,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|concepts__how-to-build-with-system-one#1": {
+"relevant": 0.19,
+"answers": 0.08,
+"ms": 219,
+"tokens": 486,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|cookbooks__classification_using_confidence#5": {
+"relevant": 0.95,
+"answers": 0.93,
+"ms": 180,
+"tokens": 641,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What should my code do when the model is only moderately sure?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.08,
+"answers": 0.05,
+"ms": 236,
+"tokens": 555,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|cookbooks__rerank_typesafe#0": {
+"relevant": 0.25,
+"answers": 0.08,
+"ms": 275,
+"tokens": 600,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|concepts__system-one#1": {
+"relevant": 0.4,
+"answers": 0.18,
+"ms": 276,
+"tokens": 636,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|cookbooks__semantic_find#6": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 277,
+"tokens": 419,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|patterns__intent-routing#0": {
+"relevant": 0.42,
+"answers": 0.1,
+"ms": 278,
+"tokens": 392,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|cookbooks__rerank_typesafe#6": {
+"relevant": 0.09,
+"answers": 0.05,
+"ms": 195,
+"tokens": 846,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|model-jaggedness__jev-1.13#0": {
+"relevant": 0.61,
+"answers": 0.29,
+"ms": 210,
+"tokens": 445,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|cookbooks__rerank_typesafe#3": {
+"relevant": 0.22,
+"answers": 0.06,
+"ms": 218,
+"tokens": 463,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|concepts__system-one#2": {
+"relevant": 0.08,
+"answers": 0.04,
+"ms": 223,
+"tokens": 505,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|cookbooks__rerank_typesafe#2": {
+"relevant": 0.26,
+"answers": 0.04,
+"ms": 195,
+"tokens": 669,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How fast does a typical request finish?|concepts__how-to-build-with-system-one#2": {
+"relevant": 0.98,
+"answers": 0.98,
+"ms": 226,
+"tokens": 566,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|models#1": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 267,
+"tokens": 762,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|primitives__noul#6": {
+"relevant": 0.04,
+"answers": 0.04,
+"ms": 270,
+"tokens": 552,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|model-jaggedness__jev-1.13#7": {
+"relevant": 0.06,
+"answers": 0.03,
+"ms": 271,
+"tokens": 434,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|api#6": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 297,
+"tokens": 562,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|models#2": {
+"relevant": 0.06,
+"answers": 0.04,
+"ms": 194,
+"tokens": 592,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|cookbooks__sde_cascade#7": {
+"relevant": 0.07,
+"answers": 0.03,
+"ms": 214,
+"tokens": 648,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|model-jaggedness__jev-1.13#9": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 210,
+"tokens": 787,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|model-jaggedness__jev-1.13#2": {
+"relevant": 0.06,
+"answers": 0.03,
+"ms": 189,
+"tokens": 470,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|patterns__composite-scoring#1": {
+"relevant": 0.07,
+"answers": 0.03,
+"ms": 237,
+"tokens": 753,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How many parameters does Jev have?|concepts__how-to-build-with-system-one#4": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 230,
+"tokens": 375,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|introduction__coding-agents#4": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 201,
+"tokens": 408,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|models#1": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 210,
+"tokens": 766,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|models#0": {
+"relevant": 0.08,
+"answers": 0.03,
+"ms": 230,
+"tokens": 397,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|models#3": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 293,
+"tokens": 487,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|introduction__coding-agents#2": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 217,
+"tokens": 583,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|concepts__system-one#0": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 219,
+"tokens": 450,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|introduction__coding-agents#0": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 219,
+"tokens": 420,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|models#2": {
+"relevant": 0.06,
+"answers": 0.03,
+"ms": 268,
+"tokens": 596,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|confidence#1": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 190,
+"tokens": 576,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Which GPU model does TypeSafe serve Jev on?|introduction#0": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 200,
+"tokens": 505,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|cookbooks__autoresearch_feature_discovery#5": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 189,
+"tokens": 488,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|models#5": {
+"relevant": 0.14,
+"answers": 0.06,
+"ms": 197,
+"tokens": 375,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|model-jaggedness__jev-1.13#7": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 211,
+"tokens": 439,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|concepts__use-case-map#2": {
+"relevant": 0.07,
+"answers": 0.04,
+"ms": 212,
+"tokens": 734,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|cookbooks__skill_suggestion#2": {
+"relevant": 0.09,
+"answers": 0.04,
+"ms": 266,
+"tokens": 429,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|models#3": {
+"relevant": 0.24,
+"answers": 0.1,
+"ms": 287,
+"tokens": 488,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|cookbooks__autoresearch_feature_discovery#1": {
+"relevant": 0.08,
+"answers": 0.04,
+"ms": 302,
+"tokens": 604,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|models#4": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 290,
+"tokens": 400,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|cookbooks__consistency_noul_cookbook#1": {
+"relevant": 0.11,
+"answers": 0.06,
+"ms": 189,
+"tokens": 395,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Can I run Jev on servers in my own data center?|cookbooks__consistency_choice_cookbook#1": {
+"relevant": 0.13,
+"answers": 0.06,
+"ms": 244,
+"tokens": 394,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|agent-skill#3": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 288,
+"tokens": 429,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|models#1": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 297,
+"tokens": 764,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|cookbooks__skill_suggestion#7": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 301,
+"tokens": 590,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|models#5": {
+"relevant": 0.04,
+"answers": 0.01,
+"ms": 308,
+"tokens": 372,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|model-jaggedness__jev-1.13#10": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 190,
+"tokens": 559,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|cookbooks__sde_cascade#0": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 201,
+"tokens": 782,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|model-jaggedness__jev-1.13#9": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 193,
+"tokens": 789,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 222,
+"tokens": 447,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|model-jaggedness__jev-1.13#7": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 237,
+"tokens": 436,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the monthly price of the enterprise plan?|model-jaggedness__jev-1.13#6": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 276,
+"tokens": 476,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|cookbooks__function_calling#5": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 187,
+"tokens": 497,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 193,
+"tokens": 450,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|cookbooks__entity_alignment#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 200,
+"tokens": 489,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|introduction#0": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 213,
+"tokens": 506,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|introduction#3": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 187,
+"tokens": 431,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|introduction__coding-agents#1": {
+"relevant": 0.1,
+"answers": 0.03,
+"ms": 198,
+"tokens": 505,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|models#6": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 206,
+"tokens": 475,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|introduction__coding-agents#3": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 234,
+"tokens": 508,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|model-jaggedness__jev-1.13#3": {
+"relevant": 0.08,
+"answers": 0.03,
+"ms": 203,
+"tokens": 745,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What score does Jev get on the MMLU benchmark?|primitives__score#3": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 226,
+"tokens": 850,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__sde_cascade#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 266,
+"tokens": 496,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__date_extraction_cookbook#0": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 267,
+"tokens": 628,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.05,
+"answers": 0.02,
+"ms": 270,
+"tokens": 556,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|models#6": {
+"relevant": 0.28,
+"answers": 0.04,
+"ms": 272,
+"tokens": 476,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__date_extraction_cookbook#4": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 185,
+"tokens": 568,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 220,
+"tokens": 556,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__date_extraction_cookbook#5": {
+"relevant": 0.06,
+"answers": 0.02,
+"ms": 219,
+"tokens": 407,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__consistency_noul_cookbook#0": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 258,
+"tokens": 815,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__date_extraction_cookbook#2": {
+"relevant": 0.1,
+"answers": 0.03,
+"ms": 202,
+"tokens": 570,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|On what date will jev-1.14 be released?|cookbooks__consistency_noul_cookbook#3": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 192,
+"tokens": 405,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|primitives__noul#1": {
+"relevant": 0.06,
+"answers": 0.04,
+"ms": 313,
+"tokens": 824,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|cookbooks__semantic_find#6": {
+"relevant": 0.16,
+"answers": 0.11,
+"ms": 326,
+"tokens": 419,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|concepts__state#0": {
+"relevant": 0.08,
+"answers": 0.03,
+"ms": 328,
+"tokens": 426,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|concepts__how-to-build-with-system-one#4": {
+"relevant": 0.08,
+"answers": 0.04,
+"ms": 348,
+"tokens": 375,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|primitives__choice#1": {
+"relevant": 0.06,
+"answers": 0.04,
+"ms": 193,
+"tokens": 799,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|api#0": {
+"relevant": 0.15,
+"answers": 0.05,
+"ms": 283,
+"tokens": 367,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|cookbooks__function_calling#1": {
+"relevant": 0.07,
+"answers": 0.03,
+"ms": 302,
+"tokens": 408,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|cookbooks__semantic_find#0": {
+"relevant": 0.05,
+"answers": 0.03,
+"ms": 319,
+"tokens": 655,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|patterns__fan-out#1": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 270,
+"tokens": 814,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Does the API support streaming partial answers?|concepts__how-to-build-with-system-one#3": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 221,
+"tokens": 769,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|models#0": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 289,
+"tokens": 398,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|cookbooks__consistency_choice_cookbook#4": {
+"relevant": 0.11,
+"answers": 0.03,
+"ms": 294,
+"tokens": 822,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|cookbooks__consistency_noul_cookbook#4": {
+"relevant": 0.12,
+"answers": 0.03,
+"ms": 294,
+"tokens": 843,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|cookbooks__autoformat#4": {
+"relevant": 0.08,
+"answers": 0.02,
+"ms": 295,
+"tokens": 663,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|models#1": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 209,
+"tokens": 767,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|cookbooks__llm_guardrails#0": {
+"relevant": 0.07,
+"answers": 0.02,
+"ms": 225,
+"tokens": 642,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|models#3": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 232,
+"tokens": 488,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|introduction__coding-agents#3": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 250,
+"tokens": 508,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|api#2": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 201,
+"tokens": 499,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the p99 latency of a Jev request?|concepts__system-one#3": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 190,
+"tokens": 438,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|cookbooks__sde_cascade#4": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 281,
+"tokens": 729,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|primitives__score#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 285,
+"tokens": 687,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|agent-skill#2": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 302,
+"tokens": 493,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|cookbooks__sde_cascade#1": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 306,
+"tokens": 377,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|patterns#0": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 191,
+"tokens": 401,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|introduction#3": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 200,
+"tokens": 424,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|introduction__quickstart#4": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 219,
+"tokens": 462,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|cookbooks__skill_suggestion#1": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 204,
+"tokens": 374,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|cookbooks__rerank_typesafe#5": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 210,
+"tokens": 707,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who founded TypeSafe?|cookbooks__semantic_find#1": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 297,
+"tokens": 431,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks__autoformat#9": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 203,
+"tokens": 566,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks__function_calling#5": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 208,
+"tokens": 491,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks__date_extraction_cookbook#2": {
+"relevant": 0.04,
+"answers": 0.02,
+"ms": 213,
+"tokens": 563,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks__autoresearch_feature_discovery#4": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 241,
+"tokens": 442,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks__parallel_questions#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 279,
+"tokens": 450,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|patterns#1": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 274,
+"tokens": 518,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|primitives__choice#5": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 270,
+"tokens": 731,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks__function_calling#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 306,
+"tokens": 509,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|concepts__system-one#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 199,
+"tokens": 504,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How long is the free trial?|cookbooks#5": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 210,
+"tokens": 550,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|cookbooks#2": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 186,
+"tokens": 438,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|introduction#0": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 192,
+"tokens": 504,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|primitives#0": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 217,
+"tokens": 542,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|concepts__use-case-map#1": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 237,
+"tokens": 579,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|cookbooks__sde_cascade#0": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 186,
+"tokens": 783,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|introduction__coding-agents#0": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 179,
+"tokens": 419,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|introduction__quickstart#2": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 221,
+"tokens": 402,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|cookbooks__semantic_find#1": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 210,
+"tokens": 436,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|concepts__state#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 303,
+"tokens": 436,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I make sourdough bread rise faster?|cookbooks__rerank_typesafe#5": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 287,
+"tokens": 712,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#7": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 196,
+"tokens": 433,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 212,
+"tokens": 444,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#9": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 235,
+"tokens": 786,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#10": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 238,
+"tokens": 556,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#5": {
+"relevant": 0.03,
+"answers": 0.01,
+"ms": 200,
+"tokens": 401,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 180,
+"tokens": 549,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#6": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 226,
+"tokens": 473,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#3": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 279,
+"tokens": 739,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 290,
+"tokens": 549,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is the capital of Australia?|model-jaggedness__jev-1.13#2": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 311,
+"tokens": 469,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|primitives__advanced#5": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 189,
+"tokens": 599,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|cookbooks__date_extraction_cookbook#6": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 192,
+"tokens": 395,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|primitives__choice#2": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 194,
+"tokens": 511,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|cookbooks__autoresearch_feature_discovery#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 303,
+"tokens": 444,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|cookbooks__function_calling#7": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 276,
+"tokens": 400,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|primitives#1": {
+"relevant": 0.02,
+"answers": 0.02,
+"ms": 182,
+"tokens": 503,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|cookbooks#2": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 302,
+"tokens": 436,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|models#2": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 348,
+"tokens": 593,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|primitives__advanced#6": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 208,
+"tokens": 635,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I change a flat bicycle tire?|introduction#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 360,
+"tokens": 490,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|primitives__score#2": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 189,
+"tokens": 693,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|cookbooks__function_calling#0": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 203,
+"tokens": 533,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#9": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 220,
+"tokens": 791,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#10": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 221,
+"tokens": 561,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 191,
+"tokens": 449,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#6": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 185,
+"tokens": 478,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#7": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 207,
+"tokens": 438,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#5": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 188,
+"tokens": 406,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 192,
+"tokens": 554,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|Who won the 2022 football World Cup?|model-jaggedness__jev-1.13#3": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 268,
+"tokens": 744,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#8": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 183,
+"tokens": 446,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#10": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 187,
+"tokens": 558,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#7": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 223,
+"tokens": 435,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#9": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 231,
+"tokens": 788,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#6": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 230,
+"tokens": 475,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 206,
+"tokens": 551,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#3": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 204,
+"tokens": 741,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#5": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 256,
+"tokens": 403,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#2": {
+"relevant": 0.03,
+"answers": 0.02,
+"ms": 190,
+"tokens": 471,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|How do I center a div in CSS?|model-jaggedness__jev-1.13#1": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 200,
+"tokens": 551,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|cookbooks__consistency_choice_cookbook#0": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 248,
+"tokens": 837,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|cookbooks__sde_cascade#8": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 247,
+"tokens": 637,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|cookbooks__entity_alignment#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 247,
+"tokens": 592,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|confidence#3": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 275,
+"tokens": 483,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|cookbooks__llm_guardrails#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 202,
+"tokens": 463,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|model-jaggedness__jev-1.13#0": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 213,
+"tokens": 447,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|introduction__machine-learning-primer#1": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 207,
+"tokens": 430,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|primitives__noul#5": {
+"relevant": 0.02,
+"answers": 0.01,
+"ms": 242,
+"tokens": 399,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|agent-skill#3": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 196,
+"tokens": 429,
+"model": "jev-1.13.0"
+},
+"jev-1.13.0|What is a good stretch for lower back pain?|cookbooks__citation_check#4": {
+"relevant": 0.01,
+"answers": 0.01,
+"ms": 212,
+"tokens": 508,
+"model": "jev-1.13.0"
+}
+}

@@ -1,0 +1,4 @@
+.venv/
+raw/
+corpus.json
+__pycache__/

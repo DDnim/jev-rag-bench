@@ -1,0 +1,3575 @@
+[
+ {
+  "id": "a01",
+  "type": "answerable",
+  "q": "How much do I pay for the text Jev sends back?",
+  "gold": [
+   "models#1"
+  ],
+  "cands": [
+   {
+    "id": "models#4",
+    "bm25": 9.379,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 426,
+    "tokens": 400,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#0",
+    "bm25": 7.067,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 322,
+    "tokens": 627,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#0",
+    "bm25": 6.72,
+    "relevant": 0.08,
+    "answers": 0.05,
+    "ms": 331,
+    "tokens": 506,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#1",
+    "bm25": 5.424,
+    "relevant": 0.07,
+    "answers": 0.05,
+    "ms": 346,
+    "tokens": 505,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#0",
+    "bm25": 5.217,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 182,
+    "tokens": 451,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "api#2",
+    "bm25": 5.201,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 187,
+    "tokens": 499,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#0",
+    "bm25": 5.091,
+    "relevant": 0.13,
+    "answers": 0.05,
+    "ms": 187,
+    "tokens": 642,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#4",
+    "bm25": 4.944,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 224,
+    "tokens": 380,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#1",
+    "bm25": 4.877,
+    "relevant": 0.89,
+    "answers": 0.92,
+    "ms": 237,
+    "tokens": 767,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#6",
+    "bm25": 4.78,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 253,
+    "tokens": 399,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a02",
+  "type": "answerable",
+  "q": "Can I send a screenshot of a form to Jev?",
+  "gold": [
+   "models#1",
+   "concepts__system-one#0",
+   "concepts__state#1"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__date_extraction_cookbook#4",
+    "bm25": 6.912,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 190,
+    "tokens": 566,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#2",
+    "bm25": 5.331,
+    "relevant": 0.11,
+    "answers": 0.06,
+    "ms": 189,
+    "tokens": 596,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 5.331,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 224,
+    "tokens": 554,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#6",
+    "bm25": 5.321,
+    "relevant": 0.11,
+    "answers": 0.06,
+    "ms": 192,
+    "tokens": 638,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#6",
+    "bm25": 5.199,
+    "relevant": 0.18,
+    "answers": 0.08,
+    "ms": 210,
+    "tokens": 478,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#2",
+    "bm25": 5.03,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 257,
+    "tokens": 420,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#6",
+    "bm25": 4.927,
+    "relevant": 0.27,
+    "answers": 0.15,
+    "ms": 202,
+    "tokens": 474,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 4.265,
+    "relevant": 0.13,
+    "answers": 0.09,
+    "ms": 228,
+    "tokens": 554,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#2",
+    "bm25": 3.662,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 222,
+    "tokens": 509,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#0",
+    "bm25": 3.185,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 245,
+    "tokens": 626,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a03",
+  "type": "answerable",
+  "q": "Will TypeSafe train on the requests my company sends?",
+  "gold": [
+   "models#5"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__classification_using_confidence#3",
+    "bm25": 6.708,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 276,
+    "tokens": 524,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__machine-learning-primer#2",
+    "bm25": 6.603,
+    "relevant": 0.24,
+    "answers": 0.11,
+    "ms": 275,
+    "tokens": 506,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#7",
+    "bm25": 6.422,
+    "relevant": 0.05,
+    "answers": 0.04,
+    "ms": 275,
+    "tokens": 592,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#6",
+    "bm25": 6.375,
+    "relevant": 0.06,
+    "answers": 0.04,
+    "ms": 280,
+    "tokens": 398,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#4",
+    "bm25": 6.245,
+    "relevant": 0.1,
+    "answers": 0.06,
+    "ms": 203,
+    "tokens": 379,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#0",
+    "bm25": 5.308,
+    "relevant": 0.06,
+    "answers": 0.05,
+    "ms": 280,
+    "tokens": 695,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks#3",
+    "bm25": 5.115,
+    "relevant": 0.09,
+    "answers": 0.05,
+    "ms": 213,
+    "tokens": 662,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#1",
+    "bm25": 4.937,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 233,
+    "tokens": 437,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__use-case-map#2",
+    "bm25": 4.744,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 206,
+    "tokens": 733,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#4",
+    "bm25": 4.511,
+    "relevant": 0.07,
+    "answers": 0.06,
+    "ms": 297,
+    "tokens": 748,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a04",
+  "type": "answerable",
+  "q": "Can I fine-tune Jev on my own labeled examples?",
+  "gold": [
+   "models#3"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__semantic_find#6",
+    "bm25": 11.397,
+    "relevant": 0.07,
+    "answers": 0.05,
+    "ms": 226,
+    "tokens": 424,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#7",
+    "bm25": 11.225,
+    "relevant": 0.37,
+    "answers": 0.38,
+    "ms": 245,
+    "tokens": 462,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__hierarchical_classification#3",
+    "bm25": 10.927,
+    "relevant": 0.11,
+    "answers": 0.04,
+    "ms": 203,
+    "tokens": 367,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#2",
+    "bm25": 7.117,
+    "relevant": 0.05,
+    "answers": 0.04,
+    "ms": 209,
+    "tokens": 597,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#3",
+    "bm25": 7.063,
+    "relevant": 0.98,
+    "answers": 0.98,
+    "ms": 317,
+    "tokens": 488,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__score#6",
+    "bm25": 6.241,
+    "relevant": 0.22,
+    "answers": 0.1,
+    "ms": 310,
+    "tokens": 762,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#6",
+    "bm25": 5.974,
+    "relevant": 0.08,
+    "answers": 0.05,
+    "ms": 202,
+    "tokens": 639,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__score#4",
+    "bm25": 5.923,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 278,
+    "tokens": 745,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#3",
+    "bm25": 5.753,
+    "relevant": 0.1,
+    "answers": 0.05,
+    "ms": 265,
+    "tokens": 438,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#4",
+    "bm25": 5.612,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 210,
+    "tokens": 806,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a05",
+  "type": "answerable",
+  "q": "How well does Jev handle Chinese text?",
+  "gold": [
+   "models#4",
+   "concepts__state#1"
+  ],
+  "cands": [
+   {
+    "id": "models#4",
+    "bm25": 8.479,
+    "relevant": 0.96,
+    "answers": 0.89,
+    "ms": 308,
+    "tokens": 396,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#10",
+    "bm25": 7.373,
+    "relevant": 0.08,
+    "answers": 0.06,
+    "ms": 307,
+    "tokens": 558,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#4",
+    "bm25": 6.027,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 213,
+    "tokens": 802,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#1",
+    "bm25": 5.424,
+    "relevant": 0.1,
+    "answers": 0.1,
+    "ms": 183,
+    "tokens": 501,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#0",
+    "bm25": 5.251,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 309,
+    "tokens": 781,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#0",
+    "bm25": 5.217,
+    "relevant": 0.16,
+    "answers": 0.08,
+    "ms": 316,
+    "tokens": 447,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#1",
+    "bm25": 4.877,
+    "relevant": 0.1,
+    "answers": 0.07,
+    "ms": 243,
+    "tokens": 763,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#0",
+    "bm25": 4.79,
+    "relevant": 0.06,
+    "answers": 0.04,
+    "ms": 231,
+    "tokens": 502,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__machine-learning-primer#3",
+    "bm25": 4.768,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 198,
+    "tokens": 500,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__choice#1",
+    "bm25": 4.71,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 298,
+    "tokens": 800,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a06",
+  "type": "answerable",
+  "q": "What error do I get when I send too many calls per minute?",
+  "gold": [
+   "models#1",
+   "api#6"
+  ],
+  "cands": [
+   {
+    "id": "models#1",
+    "bm25": 12.961,
+    "relevant": 0.98,
+    "answers": 0.98,
+    "ms": 201,
+    "tokens": 768,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#6",
+    "bm25": 9.872,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 191,
+    "tokens": 558,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#4",
+    "bm25": 8.443,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 195,
+    "tokens": 449,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "api#6",
+    "bm25": 7.794,
+    "relevant": 0.98,
+    "answers": 0.98,
+    "ms": 235,
+    "tokens": 568,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#6",
+    "bm25": 7.738,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 224,
+    "tokens": 476,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#7",
+    "bm25": 7.181,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 202,
+    "tokens": 594,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_noul_cookbook#0",
+    "bm25": 7.018,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 212,
+    "tokens": 815,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#5",
+    "bm25": 6.511,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 285,
+    "tokens": 403,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__parallel_questions#6",
+    "bm25": 6.258,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 289,
+    "tokens": 484,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__use-case-map#1",
+    "bm25": 6.194,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 292,
+    "tokens": 582,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a07",
+  "type": "answerable",
+  "q": "Why do answers get worse when I paste a whole database dump into the input?",
+  "gold": [
+   "model-jaggedness__jev-1.13#6"
+  ],
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 7.743,
+    "relevant": 0.1,
+    "answers": 0.07,
+    "ms": 228,
+    "tokens": 453,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#3",
+    "bm25": 7.218,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 194,
+    "tokens": 434,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#4",
+    "bm25": 7.154,
+    "relevant": 0.1,
+    "answers": 0.08,
+    "ms": 212,
+    "tokens": 739,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#0",
+    "bm25": 6.938,
+    "relevant": 0.12,
+    "answers": 0.08,
+    "ms": 201,
+    "tokens": 807,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#0",
+    "bm25": 6.388,
+    "relevant": 0.08,
+    "answers": 0.05,
+    "ms": 278,
+    "tokens": 608,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__intent-routing#0",
+    "bm25": 6.064,
+    "relevant": 0.11,
+    "answers": 0.07,
+    "ms": 279,
+    "tokens": 400,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__quickstart#1",
+    "bm25": 6.064,
+    "relevant": 0.08,
+    "answers": 0.04,
+    "ms": 288,
+    "tokens": 417,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#3",
+    "bm25": 5.924,
+    "relevant": 0.07,
+    "answers": 0.05,
+    "ms": 280,
+    "tokens": 508,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#2",
+    "bm25": 5.876,
+    "relevant": 0.71,
+    "answers": 0.39,
+    "ms": 219,
+    "tokens": 424,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#8",
+    "bm25": 5.805,
+    "relevant": 0.07,
+    "answers": 0.05,
+    "ms": 174,
+    "tokens": 478,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a08",
+  "type": "answerable",
+  "q": "Should I ask Jev which of two deadlines comes first?",
+  "gold": [
+   "model-jaggedness__jev-1.13#4"
+  ],
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 9.299,
+    "relevant": 0.11,
+    "answers": 0.06,
+    "ms": 235,
+    "tokens": 449,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#7",
+    "bm25": 6.919,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 198,
+    "tokens": 844,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 6.78,
+    "relevant": 0.94,
+    "answers": 0.81,
+    "ms": 185,
+    "tokens": 554,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#2",
+    "bm25": 6.74,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 204,
+    "tokens": 455,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#0",
+    "bm25": 5.847,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 213,
+    "tokens": 838,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#3",
+    "bm25": 5.839,
+    "relevant": 0.3,
+    "answers": 0.33,
+    "ms": 206,
+    "tokens": 744,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#5",
+    "bm25": 5.727,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 232,
+    "tokens": 640,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#5",
+    "bm25": 5.702,
+    "relevant": 0.05,
+    "answers": 0.04,
+    "ms": 178,
+    "tokens": 870,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 5.302,
+    "relevant": 0.64,
+    "answers": 0.23,
+    "ms": 278,
+    "tokens": 554,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#4",
+    "bm25": 4.905,
+    "relevant": 0.08,
+    "answers": 0.04,
+    "ms": 274,
+    "tokens": 805,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a09",
+  "type": "answerable",
+  "q": "How do I keep results stable when a new model version ships?",
+  "gold": [
+   "models#2"
+  ],
+  "cands": [
+   {
+    "id": "models#2",
+    "bm25": 18.548,
+    "relevant": 0.98,
+    "answers": 0.97,
+    "ms": 183,
+    "tokens": 597,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#0",
+    "bm25": 6.653,
+    "relevant": 0.59,
+    "answers": 0.47,
+    "ms": 206,
+    "tokens": 642,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 6.413,
+    "relevant": 0.31,
+    "answers": 0.24,
+    "ms": 195,
+    "tokens": 555,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#0",
+    "bm25": 5.715,
+    "relevant": 0.12,
+    "answers": 0.07,
+    "ms": 185,
+    "tokens": 506,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#4",
+    "bm25": 4.746,
+    "relevant": 0.29,
+    "answers": 0.2,
+    "ms": 212,
+    "tokens": 459,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__machine-learning-primer#4",
+    "bm25": 4.697,
+    "relevant": 0.18,
+    "answers": 0.1,
+    "ms": 328,
+    "tokens": 536,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#2",
+    "bm25": 4.695,
+    "relevant": 0.66,
+    "answers": 0.41,
+    "ms": 193,
+    "tokens": 571,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__state#2",
+    "bm25": 4.658,
+    "relevant": 0.2,
+    "answers": 0.15,
+    "ms": 196,
+    "tokens": 438,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#2",
+    "bm25": 4.617,
+    "relevant": 0.13,
+    "answers": 0.06,
+    "ms": 275,
+    "tokens": 495,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#8",
+    "bm25": 4.611,
+    "relevant": 0.48,
+    "answers": 0.36,
+    "ms": 319,
+    "tokens": 495,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a10",
+  "type": "answerable",
+  "q": "Should a delete action need a higher bar than a read-only one before acting automatically?",
+  "gold": [
+   "confidence#4"
+  ],
+  "cands": [
+   {
+    "id": "confidence#4",
+    "bm25": 14.48,
+    "relevant": 0.98,
+    "answers": 0.97,
+    "ms": 211,
+    "tokens": 463,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__confidence-routing#1",
+    "bm25": 13.455,
+    "relevant": 0.81,
+    "answers": 0.73,
+    "ms": 201,
+    "tokens": 613,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#3",
+    "bm25": 13.36,
+    "relevant": 0.7,
+    "answers": 0.31,
+    "ms": 317,
+    "tokens": 490,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#6",
+    "bm25": 11.551,
+    "relevant": 0.06,
+    "answers": 0.03,
+    "ms": 223,
+    "tokens": 428,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#7",
+    "bm25": 10.391,
+    "relevant": 0.06,
+    "answers": 0.03,
+    "ms": 278,
+    "tokens": 421,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#4",
+    "bm25": 7.252,
+    "relevant": 0.61,
+    "answers": 0.22,
+    "ms": 268,
+    "tokens": 470,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__intent-routing#1",
+    "bm25": 7.042,
+    "relevant": 0.27,
+    "answers": 0.15,
+    "ms": 276,
+    "tokens": 700,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#2",
+    "bm25": 6.366,
+    "relevant": 0.41,
+    "answers": 0.18,
+    "ms": 199,
+    "tokens": 514,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#3",
+    "bm25": 6.357,
+    "relevant": 0.29,
+    "answers": 0.22,
+    "ms": 210,
+    "tokens": 802,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__score#4",
+    "bm25": 6.165,
+    "relevant": 0.1,
+    "answers": 0.05,
+    "ms": 236,
+    "tokens": 749,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a11",
+  "type": "answerable",
+  "q": "Is it cheaper to put all my questions about one document into a single call?",
+  "gold": [
+   "cookbooks__parallel_questions#0",
+   "cookbooks__parallel_questions#6",
+   "cookbooks#2"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks#2",
+    "bm25": 11.75,
+    "relevant": 0.98,
+    "answers": 0.97,
+    "ms": 294,
+    "tokens": 443,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__parallel_questions#0",
+    "bm25": 8.896,
+    "relevant": 0.98,
+    "answers": 0.96,
+    "ms": 316,
+    "tokens": 639,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#7",
+    "bm25": 8.757,
+    "relevant": 0.58,
+    "answers": 0.22,
+    "ms": 278,
+    "tokens": 419,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "agent-skill#3",
+    "bm25": 7.292,
+    "relevant": 0.14,
+    "answers": 0.06,
+    "ms": 303,
+    "tokens": 435,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__fan-out#0",
+    "bm25": 7.221,
+    "relevant": 0.59,
+    "answers": 0.32,
+    "ms": 221,
+    "tokens": 405,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#0",
+    "bm25": 6.901,
+    "relevant": 0.48,
+    "answers": 0.34,
+    "ms": 219,
+    "tokens": 645,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__choice#3",
+    "bm25": 6.462,
+    "relevant": 0.83,
+    "answers": 0.72,
+    "ms": 200,
+    "tokens": 565,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__parallel_questions#4",
+    "bm25": 6.428,
+    "relevant": 0.3,
+    "answers": 0.13,
+    "ms": 320,
+    "tokens": 459,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__parallel_questions#6",
+    "bm25": 6.315,
+    "relevant": 0.98,
+    "answers": 0.97,
+    "ms": 230,
+    "tokens": 486,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#4",
+    "bm25": 6.276,
+    "relevant": 0.24,
+    "answers": 0.11,
+    "ms": 276,
+    "tokens": 496,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a12",
+  "type": "answerable",
+  "q": "How much did re-ranking raise top-1 accuracy on the court opinion search?",
+  "gold": [
+   "cookbooks__rerank_typesafe#0",
+   "cookbooks#3"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__rerank_typesafe#6",
+    "bm25": 26.77,
+    "relevant": 0.56,
+    "answers": 0.14,
+    "ms": 219,
+    "tokens": 854,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#0",
+    "bm25": 23.062,
+    "relevant": 0.98,
+    "answers": 0.97,
+    "ms": 237,
+    "tokens": 608,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks#3",
+    "bm25": 20.216,
+    "relevant": 0.98,
+    "answers": 0.98,
+    "ms": 236,
+    "tokens": 666,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#2",
+    "bm25": 17.108,
+    "relevant": 0.26,
+    "answers": 0.04,
+    "ms": 224,
+    "tokens": 677,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#4",
+    "bm25": 12.88,
+    "relevant": 0.11,
+    "answers": 0.03,
+    "ms": 250,
+    "tokens": 641,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#3",
+    "bm25": 12.62,
+    "relevant": 0.08,
+    "answers": 0.02,
+    "ms": 286,
+    "tokens": 471,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#7",
+    "bm25": 10.687,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 235,
+    "tokens": 848,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#7",
+    "bm25": 10.248,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 256,
+    "tokens": 419,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#8",
+    "bm25": 7.37,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 217,
+    "tokens": 498,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#4",
+    "bm25": 7.253,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 229,
+    "tokens": 437,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a13",
+  "type": "answerable",
+  "q": "How can I detect that a document contains no answer to my query at all?",
+  "gold": [
+   "cookbooks__semantic_find#4",
+   "cookbooks__semantic_find#0"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__semantic_find#0",
+    "bm25": 16.206,
+    "relevant": 0.96,
+    "answers": 0.93,
+    "ms": 226,
+    "tokens": 663,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#4",
+    "bm25": 10.965,
+    "relevant": 0.83,
+    "answers": 0.63,
+    "ms": 213,
+    "tokens": 496,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#3",
+    "bm25": 10.236,
+    "relevant": 0.16,
+    "answers": 0.1,
+    "ms": 208,
+    "tokens": 480,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#8",
+    "bm25": 9.485,
+    "relevant": 0.94,
+    "answers": 0.81,
+    "ms": 215,
+    "tokens": 498,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#6",
+    "bm25": 9.48,
+    "relevant": 0.1,
+    "answers": 0.07,
+    "ms": 222,
+    "tokens": 854,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#5",
+    "bm25": 8.878,
+    "relevant": 0.77,
+    "answers": 0.67,
+    "ms": 255,
+    "tokens": 874,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#2",
+    "bm25": 8.548,
+    "relevant": 0.11,
+    "answers": 0.05,
+    "ms": 200,
+    "tokens": 677,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks#3",
+    "bm25": 8.427,
+    "relevant": 0.9,
+    "answers": 0.85,
+    "ms": 237,
+    "tokens": 666,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#4",
+    "bm25": 7.027,
+    "relevant": 0.96,
+    "answers": 0.93,
+    "ms": 187,
+    "tokens": 437,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#6",
+    "bm25": 6.938,
+    "relevant": 0.81,
+    "answers": 0.67,
+    "ms": 278,
+    "tokens": 578,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a14",
+  "type": "answerable",
+  "q": "How do I catch a quote that is accurate but does not back up the claim?",
+  "gold": [
+   "cookbooks__citation_check#4",
+   "cookbooks__citation_check#0",
+   "cookbooks__citation_check#5"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__citation_check#0",
+    "bm25": 19.548,
+    "relevant": 0.92,
+    "answers": 0.74,
+    "ms": 257,
+    "tokens": 634,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__citation_check#4",
+    "bm25": 17.628,
+    "relevant": 0.93,
+    "answers": 0.76,
+    "ms": 244,
+    "tokens": 515,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__citation_check#5",
+    "bm25": 16.688,
+    "relevant": 0.95,
+    "answers": 0.89,
+    "ms": 198,
+    "tokens": 708,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_noul_cookbook#2",
+    "bm25": 9.287,
+    "relevant": 0.07,
+    "answers": 0.03,
+    "ms": 215,
+    "tokens": 540,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__citation_check#3",
+    "bm25": 8.717,
+    "relevant": 0.5,
+    "answers": 0.34,
+    "ms": 188,
+    "tokens": 462,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#5",
+    "bm25": 7.77,
+    "relevant": 0.11,
+    "answers": 0.06,
+    "ms": 194,
+    "tokens": 645,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#0",
+    "bm25": 6.524,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 184,
+    "tokens": 808,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__citation_check#6",
+    "bm25": 6.395,
+    "relevant": 0.19,
+    "answers": 0.04,
+    "ms": 264,
+    "tokens": 391,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#3",
+    "bm25": 5.746,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 323,
+    "tokens": 490,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#4",
+    "bm25": 5.228,
+    "relevant": 0.08,
+    "answers": 0.04,
+    "ms": 310,
+    "tokens": 508,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a15",
+  "type": "answerable",
+  "q": "How do I keep a retrieved forum post that tries to hijack the model out of my prompt?",
+  "gold": [
+   "cookbooks__classifying_rag_passages#4",
+   "cookbooks__classifying_rag_passages#5",
+   "cookbooks__classifying_rag_passages#0"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__classifying_rag_passages#3",
+    "bm25": 22.813,
+    "relevant": 0.8,
+    "answers": 0.21,
+    "ms": 218,
+    "tokens": 540,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#6",
+    "bm25": 11.852,
+    "relevant": 0.94,
+    "answers": 0.88,
+    "ms": 210,
+    "tokens": 582,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_choice_cookbook#2",
+    "bm25": 8.36,
+    "relevant": 0.28,
+    "answers": 0.12,
+    "ms": 220,
+    "tokens": 489,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#0",
+    "bm25": 8.124,
+    "relevant": 0.96,
+    "answers": 0.91,
+    "ms": 311,
+    "tokens": 718,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_choice_cookbook#4",
+    "bm25": 8.021,
+    "relevant": 0.06,
+    "answers": 0.05,
+    "ms": 288,
+    "tokens": 829,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#1",
+    "bm25": 7.254,
+    "relevant": 0.22,
+    "answers": 0.11,
+    "ms": 269,
+    "tokens": 500,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#2",
+    "bm25": 7.166,
+    "relevant": 0.73,
+    "answers": 0.23,
+    "ms": 283,
+    "tokens": 584,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "agent-skill#2",
+    "bm25": 6.665,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 209,
+    "tokens": 507,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#0",
+    "bm25": 6.373,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 197,
+    "tokens": 405,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#3",
+    "bm25": 5.83,
+    "relevant": 0.04,
+    "answers": 0.03,
+    "ms": 180,
+    "tokens": 445,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a16",
+  "type": "answerable",
+  "q": "Can Jev write the final answer paragraph for my chatbot?",
+  "gold": [
+   "introduction__coding-agents#1",
+   "model-jaggedness__jev-1.13#10",
+   "concepts__system-one#1"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__classifying_rag_passages#1",
+    "bm25": 10.432,
+    "relevant": 0.86,
+    "answers": 0.69,
+    "ms": 231,
+    "tokens": 493,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classifying_rag_passages#2",
+    "bm25": 7.634,
+    "relevant": 0.17,
+    "answers": 0.16,
+    "ms": 228,
+    "tokens": 577,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#9",
+    "bm25": 7.188,
+    "relevant": 0.05,
+    "answers": 0.04,
+    "ms": 246,
+    "tokens": 572,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#0",
+    "bm25": 6.752,
+    "relevant": 0.29,
+    "answers": 0.16,
+    "ms": 210,
+    "tokens": 421,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#10",
+    "bm25": 6.439,
+    "relevant": 0.04,
+    "answers": 0.04,
+    "ms": 465,
+    "tokens": 444,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#1",
+    "bm25": 6.321,
+    "relevant": 0.96,
+    "answers": 0.96,
+    "ms": 222,
+    "tokens": 505,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#5",
+    "bm25": 6.188,
+    "relevant": 0.23,
+    "answers": 0.11,
+    "ms": 204,
+    "tokens": 407,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 5.971,
+    "relevant": 0.28,
+    "answers": 0.14,
+    "ms": 220,
+    "tokens": 555,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__function_calling#3",
+    "bm25": 5.354,
+    "relevant": 0.09,
+    "answers": 0.05,
+    "ms": 466,
+    "tokens": 625,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives#2",
+    "bm25": 4.748,
+    "relevant": 0.06,
+    "answers": 0.04,
+    "ms": 226,
+    "tokens": 614,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a17",
+  "type": "answerable",
+  "q": "What training method makes Jev's probabilities match how often it is right?",
+  "gold": [
+   "introduction__machine-learning-primer#3",
+   "introduction__machine-learning-primer#2",
+   "models#3"
+  ],
+  "cands": [
+   {
+    "id": "introduction__coding-agents#3",
+    "bm25": 10.257,
+    "relevant": 0.1,
+    "answers": 0.04,
+    "ms": 288,
+    "tokens": 510,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#3",
+    "bm25": 9.47,
+    "relevant": 0.95,
+    "answers": 0.95,
+    "ms": 192,
+    "tokens": 490,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#3",
+    "bm25": 8.811,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 183,
+    "tokens": 470,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__machine-learning-primer#2",
+    "bm25": 8.232,
+    "relevant": 0.94,
+    "answers": 0.91,
+    "ms": 286,
+    "tokens": 509,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#6",
+    "bm25": 7.96,
+    "relevant": 0.49,
+    "answers": 0.17,
+    "ms": 332,
+    "tokens": 456,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#4",
+    "bm25": 7.933,
+    "relevant": 0.1,
+    "answers": 0.05,
+    "ms": 377,
+    "tokens": 751,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#4",
+    "bm25": 7.483,
+    "relevant": 0.16,
+    "answers": 0.07,
+    "ms": 253,
+    "tokens": 402,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#1",
+    "bm25": 7.441,
+    "relevant": 0.11,
+    "answers": 0.04,
+    "ms": 220,
+    "tokens": 579,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#7",
+    "bm25": 6.975,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 296,
+    "tokens": 655,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__function_calling#3",
+    "bm25": 6.738,
+    "relevant": 0.03,
+    "answers": 0.03,
+    "ms": 200,
+    "tokens": 627,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a18",
+  "type": "answerable",
+  "q": "How many options can one Choice question hold?",
+  "gold": [
+   "primitives__choice#3",
+   "api#3",
+   "cookbooks__semantic_find#3",
+   "cookbooks__pre_parsed_value_extraction_cookbook#7"
+  ],
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#9",
+    "bm25": 13.248,
+    "relevant": 0.35,
+    "answers": 0.15,
+    "ms": 192,
+    "tokens": 788,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "api#3",
+    "bm25": 10.129,
+    "relevant": 0.99,
+    "answers": 0.99,
+    "ms": 199,
+    "tokens": 753,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#1",
+    "bm25": 8.248,
+    "relevant": 0.59,
+    "answers": 0.18,
+    "ms": 241,
+    "tokens": 501,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__choice#3",
+    "bm25": 6.894,
+    "relevant": 0.99,
+    "answers": 0.99,
+    "ms": 214,
+    "tokens": 558,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#3",
+    "bm25": 6.848,
+    "relevant": 0.99,
+    "answers": 0.99,
+    "ms": 196,
+    "tokens": 473,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#4",
+    "bm25": 6.816,
+    "relevant": 0.98,
+    "answers": 0.98,
+    "ms": 181,
+    "tokens": 500,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives#2",
+    "bm25": 6.391,
+    "relevant": 0.74,
+    "answers": 0.34,
+    "ms": 301,
+    "tokens": 610,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__choice#0",
+    "bm25": 6.039,
+    "relevant": 0.5,
+    "answers": 0.12,
+    "ms": 275,
+    "tokens": 451,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#4",
+    "bm25": 5.787,
+    "relevant": 0.18,
+    "answers": 0.06,
+    "ms": 187,
+    "tokens": 430,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__pre_parsed_value_extraction_cookbook#2",
+    "bm25": 5.659,
+    "relevant": 0.65,
+    "answers": 0.26,
+    "ms": 252,
+    "tokens": 468,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a19",
+  "type": "answerable",
+  "q": "What should my code do when the model is only moderately sure?",
+  "gold": [
+   "confidence#3",
+   "patterns__confidence-routing#0",
+   "cookbooks__classification_using_confidence#5"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__classification_using_confidence#6",
+    "bm25": 9.487,
+    "relevant": 0.94,
+    "answers": 0.83,
+    "ms": 197,
+    "tokens": 454,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#2",
+    "bm25": 8.437,
+    "relevant": 0.86,
+    "answers": 0.36,
+    "ms": 206,
+    "tokens": 419,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__score#4",
+    "bm25": 6.783,
+    "relevant": 0.37,
+    "answers": 0.31,
+    "ms": 205,
+    "tokens": 745,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#0",
+    "bm25": 5.675,
+    "relevant": 0.91,
+    "answers": 0.76,
+    "ms": 215,
+    "tokens": 494,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#0",
+    "bm25": 5.018,
+    "relevant": 0.28,
+    "answers": 0.12,
+    "ms": 200,
+    "tokens": 804,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#2",
+    "bm25": 4.846,
+    "relevant": 0.09,
+    "answers": 0.05,
+    "ms": 193,
+    "tokens": 569,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#4",
+    "bm25": 4.514,
+    "relevant": 0.91,
+    "answers": 0.82,
+    "ms": 209,
+    "tokens": 459,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#1",
+    "bm25": 4.498,
+    "relevant": 0.19,
+    "answers": 0.08,
+    "ms": 219,
+    "tokens": 486,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 4.463,
+    "relevant": 0.08,
+    "answers": 0.05,
+    "ms": 236,
+    "tokens": 555,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__classification_using_confidence#5",
+    "bm25": 4.199,
+    "relevant": 0.95,
+    "answers": 0.93,
+    "ms": 180,
+    "tokens": 641,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "a20",
+  "type": "answerable",
+  "q": "How fast does a typical request finish?",
+  "gold": [
+   "concepts__how-to-build-with-system-one#2"
+  ],
+  "cands": [
+   {
+    "id": "cookbooks__semantic_find#6",
+    "bm25": 6.659,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 277,
+    "tokens": 419,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__intent-routing#0",
+    "bm25": 5.492,
+    "relevant": 0.42,
+    "answers": 0.1,
+    "ms": 278,
+    "tokens": 392,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#1",
+    "bm25": 5.266,
+    "relevant": 0.4,
+    "answers": 0.18,
+    "ms": 276,
+    "tokens": 636,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#0",
+    "bm25": 5.256,
+    "relevant": 0.25,
+    "answers": 0.08,
+    "ms": 275,
+    "tokens": 600,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#6",
+    "bm25": 5.119,
+    "relevant": 0.09,
+    "answers": 0.05,
+    "ms": 195,
+    "tokens": 846,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#3",
+    "bm25": 4.935,
+    "relevant": 0.22,
+    "answers": 0.06,
+    "ms": 218,
+    "tokens": 463,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#2",
+    "bm25": 3.873,
+    "relevant": 0.08,
+    "answers": 0.04,
+    "ms": 223,
+    "tokens": 505,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#0",
+    "bm25": 3.58,
+    "relevant": 0.61,
+    "answers": 0.29,
+    "ms": 210,
+    "tokens": 445,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#2",
+    "bm25": 3.479,
+    "relevant": 0.98,
+    "answers": 0.98,
+    "ms": 226,
+    "tokens": 566,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#2",
+    "bm25": 3.436,
+    "relevant": 0.26,
+    "answers": 0.04,
+    "ms": 195,
+    "tokens": 669,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n01",
+  "type": "near_miss",
+  "q": "How many parameters does Jev have?",
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#7",
+    "bm25": 6.154,
+    "relevant": 0.06,
+    "answers": 0.03,
+    "ms": 271,
+    "tokens": 434,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "api#6",
+    "bm25": 5.705,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 297,
+    "tokens": 562,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#6",
+    "bm25": 5.625,
+    "relevant": 0.04,
+    "answers": 0.04,
+    "ms": 270,
+    "tokens": 552,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#1",
+    "bm25": 5.304,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 267,
+    "tokens": 762,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#7",
+    "bm25": 5.121,
+    "relevant": 0.07,
+    "answers": 0.03,
+    "ms": 214,
+    "tokens": 648,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#2",
+    "bm25": 4.762,
+    "relevant": 0.06,
+    "answers": 0.04,
+    "ms": 194,
+    "tokens": 592,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#9",
+    "bm25": 4.683,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 210,
+    "tokens": 787,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#2",
+    "bm25": 4.551,
+    "relevant": 0.06,
+    "answers": 0.03,
+    "ms": 189,
+    "tokens": 470,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__composite-scoring#1",
+    "bm25": 4.465,
+    "relevant": 0.07,
+    "answers": 0.03,
+    "ms": 237,
+    "tokens": 753,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#4",
+    "bm25": 4.118,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 230,
+    "tokens": 375,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n02",
+  "type": "near_miss",
+  "q": "Which GPU model does TypeSafe serve Jev on?",
+  "cands": [
+   {
+    "id": "models#3",
+    "bm25": 9.689,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 293,
+    "tokens": 487,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#1",
+    "bm25": 5.823,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 210,
+    "tokens": 766,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#4",
+    "bm25": 5.713,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 201,
+    "tokens": 408,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#0",
+    "bm25": 5.456,
+    "relevant": 0.08,
+    "answers": 0.03,
+    "ms": 230,
+    "tokens": 397,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#2",
+    "bm25": 5.399,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 217,
+    "tokens": 583,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#0",
+    "bm25": 5.34,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 219,
+    "tokens": 450,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#0",
+    "bm25": 5.287,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 219,
+    "tokens": 420,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#2",
+    "bm25": 4.887,
+    "relevant": 0.06,
+    "answers": 0.03,
+    "ms": 268,
+    "tokens": 596,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#1",
+    "bm25": 4.879,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 190,
+    "tokens": 576,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#0",
+    "bm25": 4.726,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 200,
+    "tokens": 505,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n03",
+  "type": "near_miss",
+  "q": "Can I run Jev on servers in my own data center?",
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#7",
+    "bm25": 7.215,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 211,
+    "tokens": 439,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#5",
+    "bm25": 6.481,
+    "relevant": 0.14,
+    "answers": 0.06,
+    "ms": 197,
+    "tokens": 375,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#5",
+    "bm25": 5.686,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 189,
+    "tokens": 488,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__use-case-map#2",
+    "bm25": 5.632,
+    "relevant": 0.07,
+    "answers": 0.04,
+    "ms": 212,
+    "tokens": 734,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#1",
+    "bm25": 4.86,
+    "relevant": 0.08,
+    "answers": 0.04,
+    "ms": 302,
+    "tokens": 604,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#3",
+    "bm25": 4.848,
+    "relevant": 0.24,
+    "answers": 0.1,
+    "ms": 287,
+    "tokens": 488,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#4",
+    "bm25": 4.793,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 290,
+    "tokens": 400,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#2",
+    "bm25": 4.769,
+    "relevant": 0.09,
+    "answers": 0.04,
+    "ms": 266,
+    "tokens": 429,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_choice_cookbook#1",
+    "bm25": 4.668,
+    "relevant": 0.13,
+    "answers": 0.06,
+    "ms": 244,
+    "tokens": 394,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_noul_cookbook#1",
+    "bm25": 4.668,
+    "relevant": 0.11,
+    "answers": 0.06,
+    "ms": 189,
+    "tokens": 395,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n04",
+  "type": "near_miss",
+  "q": "What is the monthly price of the enterprise plan?",
+  "cands": [
+   {
+    "id": "models#5",
+    "bm25": 7.865,
+    "relevant": 0.04,
+    "answers": 0.01,
+    "ms": 308,
+    "tokens": 372,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "agent-skill#3",
+    "bm25": 6.219,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 288,
+    "tokens": 429,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#1",
+    "bm25": 4.479,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 297,
+    "tokens": 764,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#7",
+    "bm25": 3.938,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 301,
+    "tokens": 590,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#0",
+    "bm25": 3.008,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 201,
+    "tokens": 782,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#10",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 190,
+    "tokens": 559,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#9",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 193,
+    "tokens": 789,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 222,
+    "tokens": 447,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#7",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 237,
+    "tokens": 436,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#6",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 276,
+    "tokens": 476,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n05",
+  "type": "near_miss",
+  "q": "What score does Jev get on the MMLU benchmark?",
+  "cands": [
+   {
+    "id": "cookbooks__entity_alignment#2",
+    "bm25": 6.708,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 200,
+    "tokens": 489,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#0",
+    "bm25": 5.998,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 213,
+    "tokens": 506,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 5.434,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 193,
+    "tokens": 450,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__function_calling#5",
+    "bm25": 5.021,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 187,
+    "tokens": 497,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#3",
+    "bm25": 4.85,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 187,
+    "tokens": 431,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#1",
+    "bm25": 4.645,
+    "relevant": 0.1,
+    "answers": 0.03,
+    "ms": 198,
+    "tokens": 505,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#6",
+    "bm25": 4.615,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 206,
+    "tokens": 475,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#3",
+    "bm25": 4.348,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 234,
+    "tokens": 508,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#3",
+    "bm25": 4.342,
+    "relevant": 0.08,
+    "answers": 0.03,
+    "ms": 203,
+    "tokens": 745,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__score#3",
+    "bm25": 4.187,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 226,
+    "tokens": 850,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n06",
+  "type": "near_miss",
+  "q": "On what date will jev-1.14 be released?",
+  "cands": [
+   {
+    "id": "models#6",
+    "bm25": 13.033,
+    "relevant": 0.28,
+    "answers": 0.04,
+    "ms": 272,
+    "tokens": 476,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#0",
+    "bm25": 9.934,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 267,
+    "tokens": 628,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 8.594,
+    "relevant": 0.05,
+    "answers": 0.02,
+    "ms": 270,
+    "tokens": 556,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#2",
+    "bm25": 6.438,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 266,
+    "tokens": 496,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_noul_cookbook#0",
+    "bm25": 6.412,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 258,
+    "tokens": 815,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 6.344,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 220,
+    "tokens": 556,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#5",
+    "bm25": 6.188,
+    "relevant": 0.06,
+    "answers": 0.02,
+    "ms": 219,
+    "tokens": 407,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#4",
+    "bm25": 5.782,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 185,
+    "tokens": 568,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#2",
+    "bm25": 5.618,
+    "relevant": 0.1,
+    "answers": 0.03,
+    "ms": 202,
+    "tokens": 570,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_noul_cookbook#3",
+    "bm25": 5.463,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 192,
+    "tokens": 405,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n07",
+  "type": "near_miss",
+  "q": "Does the API support streaming partial answers?",
+  "cands": [
+   {
+    "id": "cookbooks__semantic_find#6",
+    "bm25": 7.737,
+    "relevant": 0.16,
+    "answers": 0.11,
+    "ms": 326,
+    "tokens": 419,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#4",
+    "bm25": 6.223,
+    "relevant": 0.08,
+    "answers": 0.04,
+    "ms": 348,
+    "tokens": 375,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#1",
+    "bm25": 6.154,
+    "relevant": 0.06,
+    "answers": 0.04,
+    "ms": 313,
+    "tokens": 824,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__state#0",
+    "bm25": 5.753,
+    "relevant": 0.08,
+    "answers": 0.03,
+    "ms": 328,
+    "tokens": 426,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#0",
+    "bm25": 5.015,
+    "relevant": 0.05,
+    "answers": 0.03,
+    "ms": 319,
+    "tokens": 655,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__choice#1",
+    "bm25": 4.871,
+    "relevant": 0.06,
+    "answers": 0.04,
+    "ms": 193,
+    "tokens": 799,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__function_calling#1",
+    "bm25": 4.7,
+    "relevant": 0.07,
+    "answers": 0.03,
+    "ms": 302,
+    "tokens": 408,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "api#0",
+    "bm25": 4.68,
+    "relevant": 0.15,
+    "answers": 0.05,
+    "ms": 283,
+    "tokens": 367,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns__fan-out#1",
+    "bm25": 4.187,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 270,
+    "tokens": 814,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__how-to-build-with-system-one#3",
+    "bm25": 4.026,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 221,
+    "tokens": 769,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n08",
+  "type": "near_miss",
+  "q": "What is the p99 latency of a Jev request?",
+  "cands": [
+   {
+    "id": "cookbooks__consistency_choice_cookbook#4",
+    "bm25": 4.969,
+    "relevant": 0.11,
+    "answers": 0.03,
+    "ms": 294,
+    "tokens": 822,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__consistency_noul_cookbook#4",
+    "bm25": 4.735,
+    "relevant": 0.12,
+    "answers": 0.03,
+    "ms": 294,
+    "tokens": 843,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#4",
+    "bm25": 4.589,
+    "relevant": 0.08,
+    "answers": 0.02,
+    "ms": 295,
+    "tokens": 663,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#0",
+    "bm25": 4.275,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 289,
+    "tokens": 398,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#0",
+    "bm25": 4.103,
+    "relevant": 0.07,
+    "answers": 0.02,
+    "ms": 225,
+    "tokens": 642,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#3",
+    "bm25": 4.069,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 250,
+    "tokens": 508,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#1",
+    "bm25": 3.917,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 209,
+    "tokens": 767,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#3",
+    "bm25": 3.9,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 232,
+    "tokens": 488,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "api#2",
+    "bm25": 3.572,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 201,
+    "tokens": 499,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#3",
+    "bm25": 3.427,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 190,
+    "tokens": 438,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n09",
+  "type": "near_miss",
+  "q": "Who founded TypeSafe?",
+  "cands": [
+   {
+    "id": "primitives__score#2",
+    "bm25": 4.589,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 285,
+    "tokens": 687,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#1",
+    "bm25": 1.794,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 306,
+    "tokens": 377,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "agent-skill#2",
+    "bm25": 1.717,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 302,
+    "tokens": 493,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#4",
+    "bm25": 1.706,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 281,
+    "tokens": 729,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns#0",
+    "bm25": 1.698,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 191,
+    "tokens": 401,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__quickstart#4",
+    "bm25": 1.689,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 219,
+    "tokens": 462,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#3",
+    "bm25": 1.673,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 200,
+    "tokens": 424,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__skill_suggestion#1",
+    "bm25": 1.671,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 204,
+    "tokens": 374,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#5",
+    "bm25": 1.669,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 210,
+    "tokens": 707,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#1",
+    "bm25": 1.659,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 297,
+    "tokens": 431,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "n10",
+  "type": "near_miss",
+  "q": "How long is the free trial?",
+  "cands": [
+   {
+    "id": "cookbooks__function_calling#5",
+    "bm25": 3.987,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 208,
+    "tokens": 491,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#2",
+    "bm25": 3.581,
+    "relevant": 0.04,
+    "answers": 0.02,
+    "ms": 213,
+    "tokens": 563,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoformat#9",
+    "bm25": 3.414,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 203,
+    "tokens": 566,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#4",
+    "bm25": 3.288,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 241,
+    "tokens": 442,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__parallel_questions#4",
+    "bm25": 3.27,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 279,
+    "tokens": 450,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__function_calling#2",
+    "bm25": 2.965,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 306,
+    "tokens": 509,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "patterns#1",
+    "bm25": 2.936,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 274,
+    "tokens": 518,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__choice#5",
+    "bm25": 2.899,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 270,
+    "tokens": 731,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks#5",
+    "bm25": 2.749,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 210,
+    "tokens": 550,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__system-one#2",
+    "bm25": 2.736,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 199,
+    "tokens": 504,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "o01",
+  "type": "out_of_scope",
+  "q": "How do I make sourdough bread rise faster?",
+  "cands": [
+   {
+    "id": "concepts__use-case-map#1",
+    "bm25": 7.694,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 237,
+    "tokens": 579,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks#2",
+    "bm25": 5.674,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 186,
+    "tokens": 438,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives#0",
+    "bm25": 3.64,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 217,
+    "tokens": 542,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#0",
+    "bm25": 3.555,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 192,
+    "tokens": 504,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__quickstart#2",
+    "bm25": 3.51,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 221,
+    "tokens": 402,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#0",
+    "bm25": 3.286,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 186,
+    "tokens": 783,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__coding-agents#0",
+    "bm25": 3.177,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 179,
+    "tokens": 419,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__semantic_find#1",
+    "bm25": 3.158,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 210,
+    "tokens": 436,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "concepts__state#2",
+    "bm25": 3.068,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 303,
+    "tokens": 436,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__rerank_typesafe#5",
+    "bm25": 2.955,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 287,
+    "tokens": 712,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "o02",
+  "type": "out_of_scope",
+  "q": "What is the capital of Australia?",
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#10",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 238,
+    "tokens": 556,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#9",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 235,
+    "tokens": 786,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 212,
+    "tokens": 444,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#7",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 196,
+    "tokens": 433,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#6",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 226,
+    "tokens": 473,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#5",
+    "bm25": 0,
+    "relevant": 0.03,
+    "answers": 0.01,
+    "ms": 200,
+    "tokens": 401,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 180,
+    "tokens": 549,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#3",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 279,
+    "tokens": 739,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#2",
+    "bm25": 0,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 311,
+    "tokens": 469,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 290,
+    "tokens": 549,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "o03",
+  "type": "out_of_scope",
+  "q": "How do I change a flat bicycle tire?",
+  "cands": [
+   {
+    "id": "primitives__choice#2",
+    "bm25": 5.519,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 194,
+    "tokens": 511,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#5",
+    "bm25": 5.282,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 189,
+    "tokens": 599,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__autoresearch_feature_discovery#4",
+    "bm25": 4.355,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 303,
+    "tokens": 444,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__date_extraction_cookbook#6",
+    "bm25": 3.897,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 192,
+    "tokens": 395,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__function_calling#7",
+    "bm25": 3.871,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 276,
+    "tokens": 400,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks#2",
+    "bm25": 3.772,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 302,
+    "tokens": 436,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "models#2",
+    "bm25": 3.577,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 348,
+    "tokens": 593,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives#1",
+    "bm25": 2.753,
+    "relevant": 0.02,
+    "answers": 0.02,
+    "ms": 182,
+    "tokens": 503,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction#2",
+    "bm25": 2.678,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 360,
+    "tokens": 490,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__advanced#6",
+    "bm25": 2.405,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 208,
+    "tokens": 635,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "o04",
+  "type": "out_of_scope",
+  "q": "Who won the 2022 football World Cup?",
+  "cands": [
+   {
+    "id": "cookbooks__function_calling#0",
+    "bm25": 4.961,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 203,
+    "tokens": 533,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__score#2",
+    "bm25": 3.926,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 189,
+    "tokens": 693,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#10",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 221,
+    "tokens": 561,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#9",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 220,
+    "tokens": 791,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 191,
+    "tokens": 449,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#7",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 207,
+    "tokens": 438,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#6",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 185,
+    "tokens": 478,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#5",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 188,
+    "tokens": 406,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 192,
+    "tokens": 554,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#3",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 268,
+    "tokens": 744,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "o05",
+  "type": "out_of_scope",
+  "q": "How do I center a div in CSS?",
+  "cands": [
+   {
+    "id": "model-jaggedness__jev-1.13#10",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 187,
+    "tokens": 558,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#9",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 231,
+    "tokens": 788,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#8",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 183,
+    "tokens": 446,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#7",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 223,
+    "tokens": 435,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#6",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 230,
+    "tokens": 475,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#5",
+    "bm25": 0,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 256,
+    "tokens": 403,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#4",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 206,
+    "tokens": 551,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#3",
+    "bm25": 0,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 204,
+    "tokens": 741,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#2",
+    "bm25": 0,
+    "relevant": 0.03,
+    "answers": 0.02,
+    "ms": 190,
+    "tokens": 471,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#1",
+    "bm25": 0,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 200,
+    "tokens": 551,
+    "model": "jev-1.13.0"
+   }
+  ]
+ },
+ {
+  "id": "o06",
+  "type": "out_of_scope",
+  "q": "What is a good stretch for lower back pain?",
+  "cands": [
+   {
+    "id": "cookbooks__consistency_choice_cookbook#0",
+    "bm25": 4.974,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 248,
+    "tokens": 837,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "confidence#3",
+    "bm25": 4.959,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 275,
+    "tokens": 483,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__sde_cascade#8",
+    "bm25": 4.826,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 247,
+    "tokens": 637,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__entity_alignment#4",
+    "bm25": 4.246,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 247,
+    "tokens": 592,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__llm_guardrails#4",
+    "bm25": 3.883,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 202,
+    "tokens": 463,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "primitives__noul#5",
+    "bm25": 3.844,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 242,
+    "tokens": 399,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "model-jaggedness__jev-1.13#0",
+    "bm25": 3.662,
+    "relevant": 0.02,
+    "answers": 0.01,
+    "ms": 213,
+    "tokens": 447,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "introduction__machine-learning-primer#1",
+    "bm25": 3.577,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 207,
+    "tokens": 430,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "cookbooks__citation_check#4",
+    "bm25": 3.507,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 212,
+    "tokens": 508,
+    "model": "jev-1.13.0"
+   },
+   {
+    "id": "agent-skill#3",
+    "bm25": 3.399,
+    "relevant": 0.01,
+    "answers": 0.01,
+    "ms": 196,
+    "tokens": 429,
+    "model": "jev-1.13.0"
+   }
+  ]
+ }
+]

@@ -1,0 +1,263 @@
+[
+ {
+  "id": "a01",
+  "type": "answerable",
+  "q": "How much do I pay for the text Jev sends back?",
+  "gold": [
+   "models#1"
+  ]
+ },
+ {
+  "id": "a02",
+  "type": "answerable",
+  "q": "Can I send a screenshot of a form to Jev?",
+  "gold": [
+   "models#1",
+   "concepts__system-one#0",
+   "concepts__state#1"
+  ]
+ },
+ {
+  "id": "a03",
+  "type": "answerable",
+  "q": "Will TypeSafe train on the requests my company sends?",
+  "gold": [
+   "models#5"
+  ]
+ },
+ {
+  "id": "a04",
+  "type": "answerable",
+  "q": "Can I fine-tune Jev on my own labeled examples?",
+  "gold": [
+   "models#3"
+  ]
+ },
+ {
+  "id": "a05",
+  "type": "answerable",
+  "q": "How well does Jev handle Chinese text?",
+  "gold": [
+   "models#4",
+   "concepts__state#1"
+  ]
+ },
+ {
+  "id": "a06",
+  "type": "answerable",
+  "q": "What error do I get when I send too many calls per minute?",
+  "gold": [
+   "models#1",
+   "api#6"
+  ]
+ },
+ {
+  "id": "a07",
+  "type": "answerable",
+  "q": "Why do answers get worse when I paste a whole database dump into the input?",
+  "gold": [
+   "model-jaggedness__jev-1.13#6"
+  ]
+ },
+ {
+  "id": "a08",
+  "type": "answerable",
+  "q": "Should I ask Jev which of two deadlines comes first?",
+  "gold": [
+   "model-jaggedness__jev-1.13#4"
+  ]
+ },
+ {
+  "id": "a09",
+  "type": "answerable",
+  "q": "How do I keep results stable when a new model version ships?",
+  "gold": [
+   "models#2"
+  ]
+ },
+ {
+  "id": "a10",
+  "type": "answerable",
+  "q": "Should a delete action need a higher bar than a read-only one before acting automatically?",
+  "gold": [
+   "confidence#4"
+  ]
+ },
+ {
+  "id": "a11",
+  "type": "answerable",
+  "q": "Is it cheaper to put all my questions about one document into a single call?",
+  "gold": [
+   "cookbooks__parallel_questions#0",
+   "cookbooks__parallel_questions#6",
+   "cookbooks#2"
+  ]
+ },
+ {
+  "id": "a12",
+  "type": "answerable",
+  "q": "How much did re-ranking raise top-1 accuracy on the court opinion search?",
+  "gold": [
+   "cookbooks__rerank_typesafe#0",
+   "cookbooks#3"
+  ]
+ },
+ {
+  "id": "a13",
+  "type": "answerable",
+  "q": "How can I detect that a document contains no answer to my query at all?",
+  "gold": [
+   "cookbooks__semantic_find#4",
+   "cookbooks__semantic_find#0"
+  ]
+ },
+ {
+  "id": "a14",
+  "type": "answerable",
+  "q": "How do I catch a quote that is accurate but does not back up the claim?",
+  "gold": [
+   "cookbooks__citation_check#4",
+   "cookbooks__citation_check#0",
+   "cookbooks__citation_check#5"
+  ]
+ },
+ {
+  "id": "a15",
+  "type": "answerable",
+  "q": "How do I keep a retrieved forum post that tries to hijack the model out of my prompt?",
+  "gold": [
+   "cookbooks__classifying_rag_passages#4",
+   "cookbooks__classifying_rag_passages#5",
+   "cookbooks__classifying_rag_passages#0"
+  ]
+ },
+ {
+  "id": "a16",
+  "type": "answerable",
+  "q": "Can Jev write the final answer paragraph for my chatbot?",
+  "gold": [
+   "introduction__coding-agents#1",
+   "model-jaggedness__jev-1.13#10",
+   "concepts__system-one#1"
+  ]
+ },
+ {
+  "id": "a17",
+  "type": "answerable",
+  "q": "What training method makes Jev's probabilities match how often it is right?",
+  "gold": [
+   "introduction__machine-learning-primer#3",
+   "introduction__machine-learning-primer#2",
+   "models#3"
+  ]
+ },
+ {
+  "id": "a18",
+  "type": "answerable",
+  "q": "How many options can one Choice question hold?",
+  "gold": [
+   "primitives__choice#3",
+   "api#3",
+   "cookbooks__semantic_find#3",
+   "cookbooks__pre_parsed_value_extraction_cookbook#7"
+  ]
+ },
+ {
+  "id": "a19",
+  "type": "answerable",
+  "q": "What should my code do when the model is only moderately sure?",
+  "gold": [
+   "confidence#3",
+   "patterns__confidence-routing#0",
+   "cookbooks__classification_using_confidence#5"
+  ]
+ },
+ {
+  "id": "a20",
+  "type": "answerable",
+  "q": "How fast does a typical request finish?",
+  "gold": [
+   "concepts__how-to-build-with-system-one#2"
+  ]
+ },
+ {
+  "id": "n01",
+  "type": "near_miss",
+  "q": "How many parameters does Jev have?"
+ },
+ {
+  "id": "n02",
+  "type": "near_miss",
+  "q": "Which GPU model does TypeSafe serve Jev on?"
+ },
+ {
+  "id": "n03",
+  "type": "near_miss",
+  "q": "Can I run Jev on servers in my own data center?"
+ },
+ {
+  "id": "n04",
+  "type": "near_miss",
+  "q": "What is the monthly price of the enterprise plan?"
+ },
+ {
+  "id": "n05",
+  "type": "near_miss",
+  "q": "What score does Jev get on the MMLU benchmark?"
+ },
+ {
+  "id": "n06",
+  "type": "near_miss",
+  "q": "On what date will jev-1.14 be released?"
+ },
+ {
+  "id": "n07",
+  "type": "near_miss",
+  "q": "Does the API support streaming partial answers?"
+ },
+ {
+  "id": "n08",
+  "type": "near_miss",
+  "q": "What is the p99 latency of a Jev request?"
+ },
+ {
+  "id": "n09",
+  "type": "near_miss",
+  "q": "Who founded TypeSafe?"
+ },
+ {
+  "id": "n10",
+  "type": "near_miss",
+  "q": "How long is the free trial?"
+ },
+ {
+  "id": "o01",
+  "type": "out_of_scope",
+  "q": "How do I make sourdough bread rise faster?"
+ },
+ {
+  "id": "o02",
+  "type": "out_of_scope",
+  "q": "What is the capital of Australia?"
+ },
+ {
+  "id": "o03",
+  "type": "out_of_scope",
+  "q": "How do I change a flat bicycle tire?"
+ },
+ {
+  "id": "o04",
+  "type": "out_of_scope",
+  "q": "Who won the 2022 football World Cup?"
+ },
+ {
+  "id": "o05",
+  "type": "out_of_scope",
+  "q": "How do I center a div in CSS?"
+ },
+ {
+  "id": "o06",
+  "type": "out_of_scope",
+  "q": "What is a good stretch for lower back pain?"
+ }
+]
