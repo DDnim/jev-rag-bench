@@ -33,6 +33,6 @@ Cost/speed: 360 requests, 554 input tokens per request on average, p50 223 ms / 
 
 ## Caveats
 
-- 36 queries, one English corpus, queries and gold labels written by the author. After the first run, three gold sets were widened because Jev's top passage also answered the query (a14 `citation_check#5`, a17 `models#3`, a19 `confidence-routing#0` / `classification_using_confidence#5`); the change is in git history.
+- 36 queries, one English corpus, queries and gold labels written by the author. After the first run, three gold sets were widened because Jev's top passage also answered the query (a14 `citation_check#5`, a17 `models#3`, a19 `confidence-routing#0` / `classification_using_confidence#5`). With the original gold sets the Jev #1 count was 14 of 16 retrieved (BM25 7), on a corpus that still contained MDX component code.
 - BM25 is a weak first stage on purpose (like the official rerank cookbook). With a good embedding retriever the BM25→Jev gap would shrink.
 - Jev writes no answer; generation still needs an LLM.
